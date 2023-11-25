@@ -13,7 +13,7 @@ namespace DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=abra\\SQLEXPRESS01;initial catalog = EvcilHayvanimDb; TrustServerCertificate=True; integrated security=true");
+            optionsBuilder.UseSqlServer("connection string");
                    
         }
         public DbSet<AsiTakibi> asiTakibis { get; set; }
