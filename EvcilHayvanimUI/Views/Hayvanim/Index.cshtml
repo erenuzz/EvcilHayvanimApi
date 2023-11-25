@@ -1,0 +1,439 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<div class="container-xxl flex-grow-1 container-p-y">
+    <div class="row">
+        <div class="d-flex justify-content-end mb-5">
+            <button type="button" data-bs-target="#yeniekle" data-bs-toggle="modal" class="btn btn-primary">Yeni Ekle</button>
+        </div>
+        <div class="col-md hayvan_bilgi_kart">
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="yeniekle" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Hayvanımın Bilgileri</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <div class="modal-body">
+                <p>Yıldız ile işaretli alanlar doldurulması zorunlu alanlardır.</p>
+                <form method="post">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="mb-3">
+                                <label class="" for="basic-default-fullname">Dostunuzu Seçin<span class="text-danger"> *</span></label>
+                                <select id="hayvanlar" name="EvcilHayvanlarId" class="form-select">
+                                </select>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="" for="basic-default-fullname">Adı<span class="text-danger"> *</span></label>
+                                <input type="text" class="form-control" name="Adi" id="adi" placeholder="Adı" />
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="" for="">Yaşı<span class="text-danger"> *</span></label>
+                                <input type="text" class="form-control" name="Yasi" id="yasi" placeholder="Yaşı" />
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="" for="basic-default-email">Sahiplenildiği Tarih</label>
+                                <div class="input-group input-group-merge">
+                                    <input type="date" id="sahiplenildigi_tarih" name="SahiplenildigiTarih" class="form-control" placeholder="Sahiplenildiği Tarih" />
+                                </div>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="" for="basic-default-phone">Cinsiyeti<span class="text-danger"> *</span></label>
+                                <select name="Cinsiyeti" id="cinsiyet" class="form-select">
+                                    <option value="Dişi">Dişi</option>
+                                    <option value="Erkek">Erkek</option>
+                                </select>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="">Doğum Tarihi</label>
+                                <input type="date" class="form-control" id="DogumTarihi" name="DogumTarihi" placeholder="Doğum tarihi" />
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="">Kilosu</label>
+                                <input type="text" name="Kilosu" class="form-control" id="kilo" placeholder="Kilosu" />
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="mb-3">
+                                <label class="" for="basic-default-fullname">Hastalığı ve kullandığı ilaç var mı? Varsa lütfen ekleyin, yoksa yok yazın</label>
+                                <input type="text" name="HastalikAciklamaveKullandigiIlaclar" class="form-control" id="ilac" placeholder="Hastalığı ve kullandığı ilaçlar" />
+                            </div>
+                            <div class="mb-3">
+                                <label class="" for="basic-default-fullname">Kullanılan takviye veya vitamin var mı ? Varsa ne olduğunu yazın</label>
+                                <input type="text" name="KullanilanTakviyeveVitaminVarmi" class="form-control" id="takviye" placeholder="Kullanılan takviye veya vitamin adı" />
+                            </div>
+                            <div class="mb-3">
+                                <label class="" for="basic-default-fullname">Irkı</label>
+                                <input type="text" name="Irki" class="form-control" id="ırki" placeholder="Irkı" />
+                            </div>
+                            <div class="mb-3">
+                                <div class="form-check form-check-inline mt-3">
+                                    <input class="form-check-input" type="checkbox" name="Kisirlastirilmismi" id="kisirlastirilmismi" value="" />
+                                    <label class="form-check-label" for="inlineCheckbox1">Kısırlaştırıldı mı?</label>
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <div class="form-check form-check-inline mt-3">
+                                    <input class="form-check-input" type="checkbox" name="AyniEvdeYasayanBaskaHayvanVarmi" id="baskahayvan" value="" />
+                                    <label class="form-check-label" for="inlineCheckbox1">Aynı evde yaşayan başka var mı?</label>
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <div class="form-check form-check-inline mt-3">
+                                    <input class="form-check-input" type="checkbox" name="TakipCipiVarmi" id="takipcipi" value="" />
+                                    <label class="form-check-label" for="inlineCheckbox1">Takip çipi var mı?</label>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">İptal</button>
+                        <button type="button" class="btn btn-primary kayit">Kaydet</button>
+                    </div>
+
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>
+<div id="sil_modal"></div>
+<div id="duzenle_modal"></div>
+<input type="hidden" id="uid" value="@ViewBag.userId" />
+<script>
+    $(document).ready(function () {
+        var today = new Date();
+        var date = today.toLocaleDateString();
+        var uid = $("#uid").val();
+        $.ajax({
+            type: 'GET',
+            url: 'https://localhost:7289/api/HayvaniminBilgileri?userId=' + uid,
+            success: function (res) {
+                console.log(res);
+
+                for (let i = 0; i < res.length; i++) {
+                    var tarih = new Date(res[i].dogumTarihi);
+                    var formatTarih = tarih.toLocaleDateString();
+                    var card = ` <div class="card mb-5 card-animal">
+                                            <div class="row g-0">
+                                                <div class="col-md-2">                                                   
+                                                                <div class="circle-image">
+            <img src="/panel/animalimage/register2.png" alt="" />
+      </div>
+                                                </div>
+                                                <div class="col-md-10 mb">
+                                                    <div class="card-body">
+                                                       <h5 style="color:black;" class="card-title text-center mb-5">Bilgilerim</h5>
+                                                         <div class="row">
+                                                           <div class="col-md-4">
+                                                             <div class="form-group mb-3">
+                                                                <h5 style="color:black;">Adı: <label><b>${res[i].adi}</b></label></h5>
+                                                             </div>
+
+                                                            <div class="form-group mb-3">
+                                                                <h5 style="color:black;">Türü: <label><b>${res[i].hayvanTürü}</b></label></h5>
+                                                            </div>
+
+                                                            <div class="form-group mb-3">
+                                                               <h5 style="color:black;">Irkı: <label><b>${res[i].irki}</b></label></h5>
+                                                            </div>
+
+                                                            <div class="form-group mb-3">
+                                                                <h5 style="color:black;">Cinsiyeti: <label><b>${res[i].cinsiyeti}</b></label></h5>
+                                                             </div>
+
+                                                         </div>
+                                                        <div class="col-md-4">
+                                                             <div class="form-group mb-3">
+                                                                  <h5 style="color:black;">Yaşı: <label><b>${res[i].yasi}</b></label></h5>
+                                                             </div>
+
+                                                             <div class="form-group mb-3">
+                                                                 <h5 style="color:black;">Kilosu: <label><b>${res[i].kilosu}</b></label></h5>
+                                                             </div>
+
+                                                             <div class="form-group mb-3">
+                                                                 <h5 style="color:black;">Doğum Tarihi: <label><b>${formatTarih}</b></label></h5>
+                                                             </div>
+                                                          </div>
+
+                                                          <div class="d-flex justify-content-end">
+                                                                  <a data-bs-toggle="modal" data-bs-target="#sil_${res[i].id}" class="btn btn-danger btn-sm m-2"><i style="color:white" class='bx bx-trash'></i></a>
+                                                                  <a data-bs-toggle="modal" data-bs-target="#duzenle_${res[i].id}" class="btn btn-primary btn-sm m-2"><i style="color:white" class='bx bx-edit'></i></a>
+                                                          </div>
+
+                                                         </div>
+                                                       </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>`;
+
+
+                  
+
+                    var silModal = `<div class="modal fade" id="sil_${res[i].id}" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="staticBackdropLabel"></h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            Silmek istediğinize emin misiniz?
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">İptal</button>
+            <a data-id="${res[i].id}" class="btn btn-primary sil text-white">Sil</a>
+          </div>
+        </div>
+      </div>
+    </div>`;
+
+                    var duzenleModal = `<div class="modal fade" id="duzenle_${res[i].id}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Hayvanımın Bilgileri</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+
+                <div class="modal-body">
+                    <p>Yıldız ile işaretli alanlar doldurulması zorunlu alanlardır.</p>
+                    <form method="post">
+                        <input type="hidden" value="${res[i].id}" id="id_${res[i].id}" name="Id"/>
+                        <div class="row">
+                            <div class="col-md-6">
+                                   <input type="hidden" id="hayvanid_${res[i].id}" name="EvcilHayvanlarId" class="form-control" value="${res[i].hayvanId}"/>
+                                   <input type="hidden" id="cinsiyet_${res[i].id}" name="Cinsiyeti" class="form-control" value="${res[i].cinsiyeti}"/>
+                                   <input type="hidden" id="dogum_${res[i].id}" name="DogumTarihi" class="form-control" value="${res[i].dogumTarihi}"/>
+                                   <input type="hidden" id="ekleme_${res[i].id}" name="EklemeTarihi" class="form-control" value="${res[i].eklemeTarihi}"/>
+
+                                   <input type="hidden" id="irki_${res[i].id}" name="Irki" class="form-control" value="${res[i].irki}"/>
+                                   <input type="hidden" id="sahiplenme_${res[i].id}" name="SahiplenildigiTarih" class="form-control" value="${res[i].sahiplenildigiTarih}"/>
+                                   <input type="hidden" id="user_${res[i].id}" name="UserId" class="form-control" value="${res[i].userId}"/>
+
+
+                                <div class="mb-3">
+                                    <label class="" for="basic-default-fullname">Adı<span class="text-danger"> *</span></label>
+                                        <input type="text" class="form-control" value="${res[i].adi}" name="Adi" id="adi_${res[i].id}" placeholder="Adı" />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="" for="">Yaşı<span class="text-danger"> *</span></label>
+                                            <input type="text" class="form-control" value="${res[i].yasi}" name="Yasi" id="yasi_${res[i].id}" placeholder="Yaşı" />
+                                </div>
+                                                                                            
+
+                                <div class="mb-3">
+                                    <label class="">Kilosu</label>
+                                            <input type="text" value="${res[i].kilosu}" name="Kilosu" class="form-control" id="kilo_${res[i].id}" placeholder="Kilosu" />
+                                </div>
+
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="mb-3">
+                                    <label class="" for="basic-default-fullname">Hastalığı ve kullandığı ilaç var mı? Varsa lütfen ekleyin, yoksa yok yazın</label>
+                                            <input type="text" name="HastalikAciklamaveKullandigiIlaclar" value="${res[i].hastalikAciklamaveKullandigiIlaclar}" class="form-control" id="ilac_${res[i].id}" placeholder="Hastalığı ve kullandığı ilaçlar" />
+                                </div>
+                                <div class="mb-3">
+                                    <label class="" for="basic-default-fullname">Kullanılan takviye veya vitamin var mı ? Varsa ne olduğunu yazın</label>
+                                            <input type="text" name="KullanilanTakviyeveVitaminVarmi" value="${res[i].kullanilanTakviyeveVitaminVarmi}" class="form-control" id="takviye_${res[i].id}" placeholder="Kullanılan takviye veya vitamin adı" />
+                                </div>
+                                
+                                <div class="mb-3">
+                                    <div class="form-check form-check-inline mt-3">
+                                                <input class="form-check-input" type="checkbox" checked="${res[i].kisirlastirilmismi}" name="Kisirlastirilmismi" id="kisirlastirilmismi_${res[i].id}"  />
+                                        <label class="form-check-label" for="inlineCheckbox1">Kısırlaştırıldı mı?</label>
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <div class="form-check form-check-inline mt-3">
+                                                <input class="form-check-input" type="checkbox" checked="${res[i].ayniEvdeYasayanBaskaHayvanVarmi}" name="AyniEvdeYasayanBaskaHayvanVarmi" id="baskahayvan_${res[i].id}" value="" />
+                                        <label class="form-check-label" for="inlineCheckbox1">Aynı evde yaşayan başka var mı?</label>
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <div class="form-check form-check-inline mt-3">
+                                            <input class="form-check-input" type="checkbox" checked="${res[i].takipCipiVarmi}" name="TakipCipiVarmi" id="takipcipi_${res[i].id}" value="" />
+                                        <label class="form-check-label" for="inlineCheckbox1">Takip çipi var mı?</label>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">İptal</button>
+                            <a data-duzenle="${res[i].id}" class="btn btn-primary guncelle text-white">Kaydet</a>
+                        </div>
+
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>`;
+
+
+                    $(".hayvan_bilgi_kart").append(card);
+                    $("#sil_modal").append(silModal);
+                    $("#duzenle_modal").append(duzenleModal);
+
+                };
+
+
+            }
+        });
+
+        $.ajax({
+            type: 'Get',
+            url: '/Hayvanim/Hayvanlar',
+            success: function (res) {
+                console.log(res);
+                let selectElement = $('select[id="hayvanlar"]');
+                for (let i = 0; i < res.length; i++) {
+                    console.log(res[i]);
+                    let hayvan = res[i].hayvaninAdi;
+                    let optionElement = $('<option></option>').attr('value', res[i].id).text(hayvan);
+                    selectElement.append(optionElement);
+                }
+            }
+        })
+
+        $(".kayit").click(function (e) {
+            e.preventDefault();
+            var kisirmi = $("#kisirlastirilmismi").prop("checked");
+            var takipcipi = $("#takipcipi").prop("checked");
+            var baskahayvan = $("#baskahayvan").prop("checked");
+
+            var dataForm = {
+                Adi: $("#adi").val(),
+                Yasi: $("#yasi").val(),
+                SahiplenildigiTarih: $("#sahiplenildigi_tarih").val(),
+                Cinsiyeti: $("#cinsiyet").val(),
+                DogumTarihi: $("#DogumTarihi").val(),
+                Kilosu: $("#kilo").val(),
+                HastalikAciklamaveKullandigiIlaclar: $("#ilac").val(),
+                KullanilanTakviyeveVitaminVarmi: $("#takviye").val(),
+                Irki: $("#ırki").val(),
+                Kisirlastirilmismi: kisirmi,
+                AyniEvdeYasayanBaskaHayvanVarmi: baskahayvan,
+                TakipCipiVarmi: takipcipi,
+                EvcilHayvanlarId: $("#hayvanlar").val(),
+                UserId: uid,
+                EklemeTarihi: date
+            };
+
+            console.log(dataForm);
+
+            $.ajax({
+                type: 'POST',
+                url: 'https://localhost:7289/api/HayvaniminBilgileri/',
+                data: dataForm,
+                cache: false,
+                success: function (res) {
+                    toastr.options.progressBar = true;
+                    toastr.success('Evcil hayvanınız başarılı bir şekilde kaydedildi.', '', { timeOut: 2000 })
+                    setTimeout(function () {
+                        location.reload();
+                    }, 1000);
+                }
+            });
+        })
+    })
+  
+    $(document).on('click', '.sil', function (e) {       
+        e.preventDefault();
+        var id = $(this).attr("data-id");
+        $.ajax({
+            type: 'DELETE',
+            url: 'https://localhost:7289/api/HayvaniminBilgileri/HayvanlarimSil?id=' + id,
+            success: function (res) {
+                toastr.options.progressBar = true;
+                toastr.success('Evcil hayvanınız başarılı bir şekilde silindi.', '', { timeOut: 2000 });
+                setTimeout(function () {
+                    location.reload();
+                }, 1000);
+            },
+            error: function (xhr, status, error) {
+                toastr.error('Silme işlemi sırasında bir hata oluştu: ' + error);
+            }
+        });
+    });
+
+
+    $(document).on('click', '.guncelle', function (e) {
+        e.preventDefault();
+        var id = $(this).attr("data-duzenle");
+        var uid = $("#uid").val();
+        var kisirmi = $("#kisirlastirilmismi_" + id).prop("checked");
+        var takipcipi = $("#takipcipi_" + id).prop("checked");
+        var baskahayvan = $("#baskahayvan_" + id).prop("checked");
+        var paramId = $("#id_" + id).val();
+       
+        var dataForm = {
+            Id: $("#id_" + id).val(),
+            Adi: $("#adi_" + id).val(),
+            Yasi: $("#yasi_" + id).val(),
+            SahiplenildigiTarih: $("#sahiplenme_" + id).val(),
+            Cinsiyeti: $("#cinsiyet_" + id).val(),
+            DogumTarihi: $("#dogum_" + id).val(),
+            Kilosu: $("#kilo_" + id).val(),
+            HastalikAciklamaveKullandigiIlaclar: $("#ilac_" + id).val(),
+            KullanilanTakviyeveVitaminVarmi: $("#takviye_" + id).val(),
+            Irki: $("#irki_" + id).val(),
+            Kisirlastirilmismi: kisirmi,
+            AyniEvdeYasayanBaskaHayvanVarmi: baskahayvan,
+            TakipCipiVarmi: takipcipi,
+            EvcilHayvanlarId: $("#hayvanid_" + id).val(),
+            UserId: uid,
+            EklemeTarihi: $("#ekleme_" + id).val(),
+        };
+
+        console.log(dataForm);
+
+        $.ajax({
+            type: 'PUT',
+            url: 'https://localhost:7289/api/HayvaniminBilgileri/HayvanlarimDuzenle/' + paramId,
+            data: JSON.stringify(dataForm),
+            contentType: "application/json",
+            cache: false,
+            headers: {
+                "Accept": "application/json"
+            },
+            success: function (res) {
+                toastr.options.progressBar = true;
+                toastr.success('Evcil hayvanınız başarılı bir şekilde silindi.', '', { timeOut: 2000 });
+                setTimeout(function () {
+                    location.reload();
+                }, 1000);
+            },
+            error: function (xhr, status, error) {
+                toastr.error('Silme işlemi sırasında bir hata oluştu: ' + error);
+            }
+        });
+    });
+
+</script>

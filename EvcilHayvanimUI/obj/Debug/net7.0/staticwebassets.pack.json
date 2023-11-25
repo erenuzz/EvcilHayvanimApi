@@ -1,0 +1,2369 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\.browserslistrc",
+      "PackagePath": "staticwebassets\\admin\\.browserslistrc"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\.eslintignore",
+      "PackagePath": "staticwebassets\\admin\\.eslintignore"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\admin\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\.gitignore",
+      "PackagePath": "staticwebassets\\admin\\.gitignore"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\.prettierignore",
+      "PackagePath": "staticwebassets\\admin\\.prettierignore"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\.prettierrc.json",
+      "PackagePath": "staticwebassets\\admin\\.prettierrc.json"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\admin\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\LICENSE.md",
+      "PackagePath": "staticwebassets\\admin\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\README.md",
+      "PackagePath": "staticwebassets\\admin\\README.md"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\config.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\build-config.js",
+      "PackagePath": "staticwebassets\\admin\\build-config.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\documentation.html",
+      "PackagePath": "staticwebassets\\admin\\documentation.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\admin\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\admin\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\auth-forgot-password-basic.html",
+      "PackagePath": "staticwebassets\\admin\\html\\auth-forgot-password-basic.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\auth-login-basic.html",
+      "PackagePath": "staticwebassets\\admin\\html\\auth-login-basic.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\auth-register-basic.html",
+      "PackagePath": "staticwebassets\\admin\\html\\auth-register-basic.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\cards-basic.html",
+      "PackagePath": "staticwebassets\\admin\\html\\cards-basic.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\extended-ui-perfect-scrollbar.html",
+      "PackagePath": "staticwebassets\\admin\\html\\extended-ui-perfect-scrollbar.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\extended-ui-text-divider.html",
+      "PackagePath": "staticwebassets\\admin\\html\\extended-ui-text-divider.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\form-layouts-horizontal.html",
+      "PackagePath": "staticwebassets\\admin\\html\\form-layouts-horizontal.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\form-layouts-vertical.html",
+      "PackagePath": "staticwebassets\\admin\\html\\form-layouts-vertical.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\forms-basic-inputs.html",
+      "PackagePath": "staticwebassets\\admin\\html\\forms-basic-inputs.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\forms-input-groups.html",
+      "PackagePath": "staticwebassets\\admin\\html\\forms-input-groups.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\icons-boxicons.html",
+      "PackagePath": "staticwebassets\\admin\\html\\icons-boxicons.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\index.html",
+      "PackagePath": "staticwebassets\\admin\\html\\index.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\layouts-blank.html",
+      "PackagePath": "staticwebassets\\admin\\html\\layouts-blank.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\layouts-container.html",
+      "PackagePath": "staticwebassets\\admin\\html\\layouts-container.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\layouts-fluid.html",
+      "PackagePath": "staticwebassets\\admin\\html\\layouts-fluid.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\layouts-without-menu.html",
+      "PackagePath": "staticwebassets\\admin\\html\\layouts-without-menu.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\layouts-without-navbar.html",
+      "PackagePath": "staticwebassets\\admin\\html\\layouts-without-navbar.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\pages-account-settings-account.html",
+      "PackagePath": "staticwebassets\\admin\\html\\pages-account-settings-account.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\pages-account-settings-connections.html",
+      "PackagePath": "staticwebassets\\admin\\html\\pages-account-settings-connections.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\pages-account-settings-notifications.html",
+      "PackagePath": "staticwebassets\\admin\\html\\pages-account-settings-notifications.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\pages-misc-error.html",
+      "PackagePath": "staticwebassets\\admin\\html\\pages-misc-error.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\pages-misc-under-maintenance.html",
+      "PackagePath": "staticwebassets\\admin\\html\\pages-misc-under-maintenance.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\tables-basic.html",
+      "PackagePath": "staticwebassets\\admin\\html\\tables-basic.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-accordion.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-accordion.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-alerts.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-alerts.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-badges.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-badges.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-buttons.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-carousel.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-carousel.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-collapse.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-collapse.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-dropdowns.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-dropdowns.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-footer.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-footer.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-list-groups.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-list-groups.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-modals.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-modals.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-navbar.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-navbar.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-offcanvas.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-offcanvas.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-pagination-breadcrumbs.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-pagination-breadcrumbs.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-progress.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-progress.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-spinners.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-spinners.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-tabs-pills.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-tabs-pills.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-toasts.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-toasts.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-tooltips-popovers.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-tooltips-popovers.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\html\\ui-typography.html",
+      "PackagePath": "staticwebassets\\admin\\html\\ui-typography.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\admin\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\admin\\js\\helpers.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\js\\menu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\menu.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\libs\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\admin\\libs\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\admin\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\libs\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\admin\\libs\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\admin\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\libs\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\admin\\libs\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\admin\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\admin\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\admin\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\admin\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\admin\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\package-lock.json",
+      "PackagePath": "staticwebassets\\admin\\package-lock.json"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\package.json",
+      "PackagePath": "staticwebassets\\admin\\package.json"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_colors.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\core.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\tasks\\build.js",
+      "PackagePath": "staticwebassets\\admin\\tasks\\build.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\tasks\\prod.js",
+      "PackagePath": "staticwebassets\\admin\\tasks\\prod.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\webpack.config.js",
+      "PackagePath": "staticwebassets\\admin\\webpack.config.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\admin\\yarn.lock",
+      "PackagePath": "staticwebassets\\admin\\yarn.lock"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\.gitattributes",
+      "PackagePath": "staticwebassets\\panel\\.gitattributes"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\panel\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\panel\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\LICENSE",
+      "PackagePath": "staticwebassets\\panel"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\README.md",
+      "PackagePath": "staticwebassets\\panel\\README.md"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\animalimage\\loginbg.png",
+      "PackagePath": "staticwebassets\\panel\\animalimage\\loginbg.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\animalimage\\loginbg2.png",
+      "PackagePath": "staticwebassets\\panel\\animalimage\\loginbg2.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\animalimage\\logobg3.png",
+      "PackagePath": "staticwebassets\\panel\\animalimage\\logobg3.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\animalimage\\register2.png",
+      "PackagePath": "staticwebassets\\panel\\animalimage\\register2.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\animalimage\\registerbg.png",
+      "PackagePath": "staticwebassets\\panel\\animalimage\\registerbg.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\panel\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\panel\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\css\\soft-ui-dashboard.css",
+      "PackagePath": "staticwebassets\\panel\\assets\\css\\soft-ui-dashboard.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\css\\soft-ui-dashboard.css.map",
+      "PackagePath": "staticwebassets\\panel\\assets\\css\\soft-ui-dashboard.css.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\css\\soft-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets\\panel\\assets\\css\\soft-ui-dashboard.min.css"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\panel\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\panel\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\panel\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\panel\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\panel\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\panel\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\panel\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\panel\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\panel\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\curved-images\\white-curved.jpeg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\curved-images\\white-curved.jpeg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\marie.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\panel\\assets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\panel\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\panel\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\panel\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\panel\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\panel\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\js\\plugins\\choices.min.js",
+      "PackagePath": "staticwebassets\\panel\\assets\\js\\plugins\\choices.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\js\\plugins\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\panel\\assets\\js\\plugins\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\panel\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\panel\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\js\\soft-ui-dashboard.js",
+      "PackagePath": "staticwebassets\\panel\\assets\\js\\soft-ui-dashboard.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\js\\soft-ui-dashboard.js.map",
+      "PackagePath": "staticwebassets\\panel\\assets\\js\\soft-ui-dashboard.js.map"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\js\\soft-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets\\panel\\assets\\js\\soft-ui-dashboard.min.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_accordion.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_backgrounds.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_backgrounds.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_components.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_components.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_dropdown-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_dropdown-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_floating-elements.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_floating-elements.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_header.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_list-check.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_list-check.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_rtl-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_rtl-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\badges\\_badge-circle.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\badges\\_badge-circle.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\badges\\_badge-dot.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\badges\\_badge-dot.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\badges\\_badge-floating.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\badges\\_badge-floating.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\badges\\_badge.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\badges\\_badge.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\cards\\card-blog.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\cards\\card-blog.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\cards\\card-horizontal.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\cards\\card-horizontal.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\cards\\card-pricing.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\cards\\card-pricing.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\cards\\card-profile.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\cards\\card-profile.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_carousel-slick.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_carousel-slick.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_choices.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_choices.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_datatable-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_datatable-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_datatable.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_datatable.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_dragula.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_dragula.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_dropzone.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_dropzone.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_fullcalendar-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_fullcalendar-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_fullcalendar.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_fullcalendar.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_glidejs.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_glidejs.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_highlight.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_highlight.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_kanban.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_kanban.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_leaflet.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_leaflet.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_list-check.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_list-check.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_photoswipe.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_photoswipe.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_quill.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_quill.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_rating-widget.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_rating-widget.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_sweetalert2-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_sweetalert2-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_sweetalert2.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\_sweetalert2.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\multi-step.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\multi-step.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\plugins-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\plugins\\pro\\plugins-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\theme-pro.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\theme-pro.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\theme.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\panel\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\docs\\documentation.html",
+      "PackagePath": "staticwebassets\\panel\\docs\\documentation.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\gulpfile.js",
+      "PackagePath": "staticwebassets\\panel\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\media\\soft-ui-dashboard-intro.gif",
+      "PackagePath": "staticwebassets\\panel\\media\\soft-ui-dashboard-intro.gif"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\media\\soft-ui-dashboard-screen-billing.png",
+      "PackagePath": "staticwebassets\\panel\\media\\soft-ui-dashboard-screen-billing.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\media\\soft-ui-dashboard-screen-login.png",
+      "PackagePath": "staticwebassets\\panel\\media\\soft-ui-dashboard-screen-login.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\media\\soft-ui-dashboard-screen-profile.png",
+      "PackagePath": "staticwebassets\\panel\\media\\soft-ui-dashboard-screen-profile.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\media\\soft-ui-dashboard-screen-rtl.png",
+      "PackagePath": "staticwebassets\\panel\\media\\soft-ui-dashboard-screen-rtl.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\media\\soft-ui-dashboard-screen.png",
+      "PackagePath": "staticwebassets\\panel\\media\\soft-ui-dashboard-screen.png"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\package.json",
+      "PackagePath": "staticwebassets\\panel\\package.json"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\pages\\billing.html",
+      "PackagePath": "staticwebassets\\panel\\pages\\billing.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\pages\\dashboard.html",
+      "PackagePath": "staticwebassets\\panel\\pages\\dashboard.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\pages\\profile.html",
+      "PackagePath": "staticwebassets\\panel\\pages\\profile.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\pages\\rtl.html",
+      "PackagePath": "staticwebassets\\panel\\pages\\rtl.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\pages\\sign-in.html",
+      "PackagePath": "staticwebassets\\panel\\pages\\sign-in.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\pages\\sign-up.html",
+      "PackagePath": "staticwebassets\\panel\\pages\\sign-up.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\pages\\tables.html",
+      "PackagePath": "staticwebassets\\panel\\pages\\tables.html"
+    },
+    {
+      "Id": "D:\\EvcilHayvanimApi\\EvcilHayvanim\\EvcilHayvanimUI\\wwwroot\\panel\\pages\\virtual-reality.html",
+      "PackagePath": "staticwebassets\\panel\\pages\\virtual-reality.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EvcilHayvanimUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EvcilHayvanimUI.props",
+      "PackagePath": "build\\EvcilHayvanimUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EvcilHayvanimUI.props",
+      "PackagePath": "buildMultiTargeting\\EvcilHayvanimUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EvcilHayvanimUI.props",
+      "PackagePath": "buildTransitive\\EvcilHayvanimUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

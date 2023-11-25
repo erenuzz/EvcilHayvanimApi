@@ -1,0 +1,14 @@
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\bin\Debug\net7.0\EntityLayer.runtimeconfig.json
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.AssemblyReference.cache
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\obj\Debug\net7.0\EntityLayer.genruntimeconfig.cache
+D:\EvcilHayvanimApi\EvcilHayvanim\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll

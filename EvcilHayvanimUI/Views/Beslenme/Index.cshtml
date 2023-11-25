@@ -1,0 +1,360 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+
+<div class="container-xxl flex-grow-1 container-p-y">
+    <div class="row">
+        <div class="d-flex justify-content-end mb-5">
+            <button type="button" data-bs-target="#yeniekle" data-bs-toggle="modal" class="btn btn-primary">Yeni Ekle</button>
+        </div>
+        <div class="col-md mama_card">
+        </div>
+    </div>
+
+    <div id="modal_detail"></div>
+    <div id="sil_"></div>
+    <div id="duzenle_"></div>
+    <div class="modal fade" id="yeniekle" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Beslenme Takibi</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+
+                <div class="modal-body">
+                    <p>Yıldız ile işaretli alanlar doldurulması zorunlu alanlardır.</p>
+                    <form method="post">
+                        <div class="row">
+                            <div class="col-md-12">
+
+                                <div class="mb-3">
+                                    <label class="" for="basic-default-fullname">Kullandığı Mama Türü</label>
+                                    <input type="text" class="form-control" name="KullandigiMamaTuru" id="mamaturu" placeholder="Kullandığı Mama Türü" />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="" for="">Mama Markası</label>
+                                    <input type="text" class="form-control" name="MamaMarkasi" id="markasi" placeholder="Mama Markası" />
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="" for="basic-default-email">Mama Aroması</label>
+                                    <div class="input-group input-group-merge">
+                                        <input type="text" id="aroma" name="MamaAromasi" class="form-control" placeholder="Mama Aroması" />
+                                    </div>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="" for="basic-default-email">Alerjik Reaksiyon Gösterdiği Besinler</label>
+                                    <div class="input-group input-group-merge">
+                                        <input type="text" id="reaksiyon" name="AlerjikReaksiyonGosterdigiBesinler" class="form-control" placeholder="Alerjik Reaksiyon Gösterdiği Besinler" />
+                                    </div>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="" for="basic-default-phone">Uygun Olan Öğün Miktarı (Günde) & (Kendi hayvanınız için)</label>
+                                    <select name="UygunOlanOgunMiktari" id="ogun" class="form-select">
+                                        <option value="1">1</option>
+                                        <option value="2">2</option>
+                                        <option value="3">3</option>
+                                        <option value="4">4</option>
+                                        <option value="5">5</option>
+                                    </select>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="" for="basic-default-phone">Su Tüketim Oranı (Genel)</label>
+                                    <select name="SuTuketimOrani" id="suorani" class="form-select">
+                                        <option value="Az">Az</option>
+                                        <option value="Orta">Orta</option>
+                                        <option value="Çok">Çok</option>
+                                    </select>
+                                </div>
+
+                                <div class="mb-3">
+                                    <label class="">Yemek Saati Uyarısı (Belirlediğiniz saatlerde hergün size mesaj gönderilecektir.)</label>
+                                    <input type="datetime-local" name="YemekSaatiUyarisi" class="form-control" id="yemeksaati" placeholder="Yemek Saati Uyarısı" />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">İptal</button>
+                            <button type="button" class="btn btn-primary kayit">Kaydet</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<input type="hidden" id="usid" value="@ViewBag.userId" />
+<script>
+    $(document).ready(function () {
+        var date = new Date();
+        var now = date.toLocaleDateString();
+        var userId = $("#usid").val();
+
+        $.ajax({
+            type: 'GET',
+            url: 'https://localhost:7289/api/BeslenmeTakibi/BeslenmeListe?userId=' + userId,
+            success: function (res) {
+                console.log(res);
+               
+                for (let i = 0; i < res.length; i++) {
+                    var apiTarih = res[i].yemekSaatiUyarisi;
+                    var tarih = new Date(apiTarih).toISOString().slice(0, 19).replace("T", " ");
+                    var card = `<a href="#" data-bs-toggle="modal" data-bs-target="#detay_${res[i].id}">
+                                        <div class="card mb-3">
+                                            <div class="card-body">
+                                            <div class="row">
+                                            <div class="col-lg-3 col-3">
+                                                 <label>Kullandığı Mama Türü</label>
+                                                    <h5>${res[i].kullandigiMamaTuru}</h5>
+                                            </div>
+                                                 <div class="col-lg-3 col-3">
+                                                     <label>Mama Aroması</label>
+                                                            <h5>${res[i].mamaAromasi}</h5>
+                                                </div>
+                                                    <div class="col-lg-3 col-3">
+                                                         <label>Mama Markası</label>
+                                                         <h5>${res[i].mamaMarkasi}</h5>
+                                                    </div>
+                                                        <div class="col-lg-3 col-3">
+                                                             <label>Yemek Saati Uyarı</label>
+                                                             <h5>${tarih}</h5>
+                                                        </div>
+                                            </div>
+
+                                            </div>
+                                                 <div class="d-flex justify-content-end">
+                                                                                      <a data-bs-toggle="modal" data-bs-target="#sil_${res[i].id}" class="btn btn-danger btn-sm m-2"><i style="color:white" class='bx bx-trash'></i></a>
+                                                                                      <a data-bs-toggle="modal" data-bs-target="#duzenle_${res[i].id}" class="btn btn-primary btn-sm m-2"><i style="color:white" class='bx bx-edit'></i></a>
+                                                                              </div>
+
+                                        </div>
+                                    </a>  `;
+
+
+                    var modal = `<div class="modal fade" id="detay_${res[i].id}" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                              <div class="modal-dialog">
+                                <div class="modal-content">
+                                  <div class="modal-header">
+                                    <h5 class="modal-title" id="staticBackdropLabel">Detaylar</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                  </div>
+                                  <div class="modal-body">
+                                    <label>Alerjik reaksiyon gösterdiği besinler</label>
+                                     <h5>${res[i].alerjikReaksiyonGosterdigiBesinler}</h5>
+                                          <div class="dropdown-divider"></div>
+                                             <label>Mama Aroması</label>
+                                             <h5>${res[i].mamaAromasi}</h5>
+                                             <div class="dropdown-divider"></div>
+                                             <label>Mama Markası</label>
+                                             <h5>${res[i].mamaMarkasi}</h5>
+                                                  <div class="dropdown-divider"></div>
+                                             <label>Su Tüketim Oranı</label>
+                                             <h5>${res[i].suTuketimOrani}</h5>
+                                                  <div class="dropdown-divider"></div>
+                                             <label>Uygun Olan Öğün Miktarı</label>
+                                             <h5>${res[i].uygunOlanOgunMiktari}</h5>
+
+                                  </div>
+                                  <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>`;
+
+                    var silModal = `<div class="modal fade" id="sil_${res[i].id}" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                      <div class="modal-dialog">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="staticBackdropLabel"></h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                          </div>
+                          <div class="modal-body">
+                            Silmek istediğinize emin misiniz?
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">İptal</button>
+                            <a data-id="${res[i].id}" class="btn btn-primary sil text-white">Sil</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>`;
+
+                    var duzenleModal = `  <div class="modal fade" id="duzenle_${res[i].id}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLabel">Beslenme Takibi </h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+
+                                <div class="modal-body">
+                                    <p>Yıldız ile işaretli alanlar doldurulması zorunlu alanlardır.</p>
+                                    <form method="post">
+                                        <div class="row">
+                                            <div class="col-md-12">
+
+
+                                                <div class="mb-3">
+                                                    <label class="" for="basic-default-fullname">Kullandığı Mama Türü</label>
+                                                        <input type="text" class="form-control" value="${res[i].kullandigiMamaTuru}" name="KullandigiMamaTuru" id="mamaturu_${res[i].id}" placeholder="Kullandığı Mama Türü" />
+                                                </div>
+
+                                                <div class="mb-3">
+                                                    <label class="" for="">Mama Markası</label>
+                                                            <input type="text" class="form-control" value="${res[i].mamaMarkasi}" name="MamaMarkasi" id="markasi_${res[i].id}" placeholder="Mama Markası" />
+                                                </div>
+
+                                                <div class="mb-3">
+                                                    <label class="" for="basic-default-email">Mama Aroması</label>
+                                                    <div class="input-group input-group-merge">
+                                                                <input type="text" value="${res[i].mamaAromasi}" id="aroma_${res[i].id}" name="MamaAromasi" class="form-control" placeholder="Mama Aroması" />
+                                                    </div>
+                                                </div>
+
+                                                <div class="mb-3">
+                                                    <label class="" for="basic-default-email">Alerjik Reaksiyon Gösterdiği Besinler</label>
+                                                    <div class="input-group input-group-merge">
+                                                                <input type="text" value="${res[i].alerjikReaksiyonGosterdigiBesinler}" id="reaksiyon_${res[i].id}" name="AlerjikReaksiyonGosterdigiBesinler" class="form-control" placeholder="Alerjik Reaksiyon Gösterdiği Besinler" />
+                                                    </div>
+                                                </div>
+
+
+                                                                  <input type="hidden" value="${res[i].uygunOlanOgunMiktari}" id="ogun_${res[i].id}" name="UygunOlanOgunMiktari" class="form-control"/>
+                                                              <input type="hidden" value="${res[i].suTuketimOrani}" id="suorani_${res[i].id}" name="SuTuketimOrani" class="form-control"/>
+                                                                      <input type="hidden" value="${res[i].eklemeTarihi}" id="eklemetarihi_${res[i].id}" name="EklemeTarihi" class="form-control"/>
+
+
+                                                <div class="mb-3">
+                                                    <label class="">Yemek Saati Uyarısı (Belirlediğiniz saatlerde hergün size mesaj gönderilecektir.)</label>
+                                                        <input type="datetime-local" value="${res[i].yemekSaatiUyarisi}" name="YemekSaatiUyarisi" class="form-control" id="yemeksaati_${res[i].id}" placeholder="Yemek Saati Uyarısı" />
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">İptal</button>
+                                            <a data-duzenle="${res[i].id}" class="btn btn-primary guncelle text-white">Kaydet</a>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>`;
+
+                    $("#duzenle_").append(duzenleModal);
+                    $("#sil_").append(silModal);
+                    $("#modal_detail").append(modal);
+                    $(".mama_card").append(card);
+
+                }
+            }
+        })
+
+
+        $(".kayit").click(function (e) {
+
+            e.preventDefault();
+            var dataForm = {
+                KullandigiMamaTuru: $("#mamaturu").val(),
+                MamaMarkasi: $("#markasi").val(),
+                MamaAromasi: $("#aroma").val(),
+                UygunOlanOgunMiktari: $("#ogun").val(),
+                AlerjikReaksiyonGosterdigiBesinler: $("#reaksiyon").val(),
+                SuTuketimOrani: $("#suorani").val(),
+                YemekSaatiUyarisi: $("#yemeksaati").val(),
+                UserId: userId,
+                EklemeTarihi: now,
+            }
+
+            console.log(dataForm);
+
+            $.ajax({
+                type: 'POST',
+                url: 'https://localhost:7289/api/BeslenmeTakibi/BeslenmeEkle',
+                data: dataForm, // Veriyi JSON olarak gönderin
+                cache: false,
+                success: function (res) {
+                    toastr.options.progressBar = true;
+                    toastr.success('Başarıyla kaydedildi.', '', { timeOut: 2000 })
+                    setTimeout(function () {
+                        location.reload();
+                    }, 1000);
+                }
+            })
+        })
+    })
+
+
+    $(document).on('click', '.sil', function (e) {
+        e.preventDefault();
+        var id = $(this).attr("data-id");
+        $.ajax({
+            type: 'DELETE',
+            url: 'https://localhost:7289/api/BeslenmeTakibi/Sil?id=' + id,
+            success: function (res) {
+                toastr.options.progressBar = true;
+                toastr.success('Başarılı bir şekilde silindi.', '', { timeOut: 2000 });
+                setTimeout(function () {
+                    location.reload();
+                }, 1000);
+            },
+            error: function (xhr, status, error) {
+                toastr.error('Silme işlemi sırasında bir hata oluştu: ' + error);
+            }
+        });
+    });
+
+
+    $(document).on('click', '.guncelle', function (e) {
+        e.preventDefault();
+        var id = $(this).attr("data-duzenle");
+        var userId = $("#usid").val();
+
+        var dataForm = {
+            Id: id,
+            KullandigiMamaTuru: $("#mamaturu_" + id).val(),
+            MamaMarkasi: $("#markasi_" + id).val(),
+            MamaAromasi: $("#aroma_" + id).val(),
+            UygunOlanOgunMiktari: $("#ogun_" + id).val(),
+            AlerjikReaksiyonGosterdigiBesinler: $("#reaksiyon_" + id).val(),
+            SuTuketimOrani: $("#suorani_" + id).val(),
+            YemekSaatiUyarisi: $("#yemeksaati_" + id).val(),
+            EklemeTarihi: $("#eklemetarihi_" + id).val(),
+            UserId: userId,
+
+        };
+
+        $.ajax({
+            type: 'PUT',
+            url: 'https://localhost:7289/api/BeslenmeTakibi/BeslenmeDuzenle/' + id,
+            data: JSON.stringify(dataForm),
+            contentType: "application/json",
+            cache: false,
+            headers: {
+                "Accept": "application/json"
+            },
+            success: function (res) {
+                toastr.options.progressBar = true;
+                toastr.success('Başarılı bir şekilde güncellendi.', '', { timeOut: 2000 });
+                setTimeout(function () {
+                    location.reload();
+                }, 1000);
+            },
+            error: function (xhr, status, error) {
+                toastr.error('Güncelleme işlemi sırasında bir hata oluştu: ' + error);
+            }
+        });
+    });
+
+
+</script>

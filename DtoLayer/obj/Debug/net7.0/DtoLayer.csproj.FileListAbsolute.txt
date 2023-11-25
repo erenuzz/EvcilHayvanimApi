@@ -1,0 +1,14 @@
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\bin\Debug\net7.0\DtoLayer.deps.json
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\bin\Debug\net7.0\DtoLayer.runtimeconfig.json
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\bin\Debug\net7.0\DtoLayer.dll
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\bin\Debug\net7.0\DtoLayer.pdb
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\obj\Debug\net7.0\DtoLayer.csproj.AssemblyReference.cache
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\obj\Debug\net7.0\DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\obj\Debug\net7.0\DtoLayer.AssemblyInfoInputs.cache
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\obj\Debug\net7.0\DtoLayer.AssemblyInfo.cs
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\obj\Debug\net7.0\DtoLayer.csproj.CoreCompileInputs.cache
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\obj\Debug\net7.0\DtoLayer.dll
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\obj\Debug\net7.0\refint\DtoLayer.dll
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\obj\Debug\net7.0\DtoLayer.pdb
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\obj\Debug\net7.0\DtoLayer.genruntimeconfig.cache
+D:\EvcilHayvanimApi\EvcilHayvanim\DtoLayer\obj\Debug\net7.0\ref\DtoLayer.dll

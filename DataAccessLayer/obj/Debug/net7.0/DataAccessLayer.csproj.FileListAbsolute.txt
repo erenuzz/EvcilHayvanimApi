@@ -1,0 +1,17 @@
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\bin\Debug\net7.0\EntityLayer.dll
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\bin\Debug\net7.0\EntityLayer.pdb
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+D:\EvcilHayvanimApi\EvcilHayvanim\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

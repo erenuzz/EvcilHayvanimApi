@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EvcilHayvanimUI
+build_property.RootNamespace = EvcilHayvanimUI
+build_property.ProjectDir = D:\EvcilHayvanimApi\EvcilHayvanim\EvcilHayvanimUI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\EvcilHayvanimApi\EvcilHayvanim\EvcilHayvanimUI
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/EvcilHayvanimApi/EvcilHayvanim/EvcilHayvanimUI/Views/Beslenme/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVzbGVubWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EvcilHayvanimApi/EvcilHayvanim/EvcilHayvanimUI/Views/Beslenme/Sms.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVzbGVubWVcU21zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EvcilHayvanimApi/EvcilHayvanim/EvcilHayvanimUI/Views/Giris/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EvcilHayvanimApi/EvcilHayvanim/EvcilHayvanimUI/Views/Hayvanim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGF5dmFuaW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EvcilHayvanimApi/EvcilHayvanim/EvcilHayvanimUI/Views/Kayit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F5aXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EvcilHayvanimApi/EvcilHayvanim/EvcilHayvanimUI/Views/Panel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFuZWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EvcilHayvanimApi/EvcilHayvanim/EvcilHayvanimUI/Views/Shared/Admin_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EvcilHayvanimApi/EvcilHayvanim/EvcilHayvanimUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EvcilHayvanimApi/EvcilHayvanim/EvcilHayvanimUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EvcilHayvanimApi/EvcilHayvanim/EvcilHayvanimUI/Views/Temizlik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtaXpsaWtcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EvcilHayvanimApi/EvcilHayvanim/EvcilHayvanimUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/EvcilHayvanimApi/EvcilHayvanim/EvcilHayvanimUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
